@@ -4,5 +4,4 @@ export class Tutorial {
         public id: number,
         public name : string
     ){}
-
 }
